@@ -1,2 +1,6 @@
 FermentedApples-Mod-Pack.zip
 server/world/
+server/config/
+server/ops.json
+server/server.properties
+server/usercache.json
