@@ -1,0 +1,11 @@
+Minecraft Forge 	10.13.0.1180
+CodeChickenCore 	1.0.2.9
+NEI 				1.0.2.15
+Rei's Minimap
+
+Harvestcraft
+Forestry
+Twilight Forest
+Thaumcraft
+Tinkers Construct
+EnderIO
