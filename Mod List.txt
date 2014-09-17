@@ -1,7 +1,9 @@
-Minecraft Forge 	10.13.0.1180
-CodeChickenCore 	1.0.2.9
-NEI 				1.0.2.15
-Rei's Minimap
+Minecraft Forge		10.13.0.1180
+CodeChickenCore		1.0.2.9
+NEI					1.0.2.15
+LiteLoader			1.7.10-3
+Mine Little Pony	1.7.10.1
+
 
 Harvestcraft
 Forestry
