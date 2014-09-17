@@ -3,7 +3,7 @@ CodeChickenCore		1.0.2.9
 NEI					1.0.2.15
 LiteLoader			1.7.10-3
 Mine Little Pony	1.7.10.1
-
+JourneyMap              4.0.4
 
 Harvestcraft
 Forestry
