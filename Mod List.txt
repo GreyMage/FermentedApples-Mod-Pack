@@ -1,17 +1,17 @@
 INSTALLED
 Minecraft Forge         10.13.0.1180
-CodeChickenCore	        1.0.2.9
+CodeChickenCore         1.0.2.9
 NEI                     1.0.2.15
 LiteLoader              1.7.10-3
 Mine Little Pony        1.7.10.1
 JourneyMap              4.0.4
 Harvestcraft            1.7.10a
-Witchery                1.7.10
+Witchery                1.7.10-0.20.5
+Twilight Forest         1.7.2-2.2.3
 
 Cades' Ideas
 
 Forestry
-Twilight Forest
 Thaumcraft
 Tinkers Construct
 EnderIO
