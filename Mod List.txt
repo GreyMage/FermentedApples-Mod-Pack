@@ -1,12 +1,12 @@
 INSTALLED
-Minecraft Forge		10.13.0.1180
-CodeChickenCore		1.0.2.9
-NEI					1.0.2.15
-LiteLoader			1.7.10-3
-Mine Little Pony	1.7.10.1
-JourneyMap			4.0.4
-Harvestcraft		1.7.10a
-
+Minecraft Forge         10.13.0.1180
+CodeChickenCore	        1.0.2.9
+NEI                     1.0.2.15
+LiteLoader              1.7.10-3
+Mine Little Pony        1.7.10.1
+JourneyMap              4.0.4
+Harvestcraft            1.7.10a
+Witchery                1.7.10
 
 Cades' Ideas
 
@@ -25,4 +25,3 @@ Better Storage
 Bibliocraft
 Balkon'sWeaponMod
 Blood Magic
-Witchery
