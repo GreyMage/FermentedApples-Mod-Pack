@@ -1,0 +1,1 @@
+java -Xmx4096M -Xms4096M -jar forge-1.7.10-10.13.0.1180-universal.jar nogui

@@ -4,3 +4,4 @@ server/config/
 server/ops.json
 server/server.properties
 server/usercache.json
+server/logs/
