@@ -10,6 +10,8 @@ Witchery                1.7.10-0.20.5
 Twilight Forest         1.7.2-2.2.3
 Bibliocraft             1.8.1
 EnderIO                 2.0.8.221
+Battletowers            1.7.10
+DungeonPack             1.7.10-1.0
 
 
 Cades' Ideas
