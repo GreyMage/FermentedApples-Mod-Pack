@@ -12,20 +12,17 @@ Bibliocraft             1.8.1
 EnderIO                 2.0.8.221
 Battletowers            1.7.10
 DungeonPack             1.7.10-1.0
+Thaumcraft              4.2.0.1
 
 
 Cades' Ideas
 
 Forestry
-Thaumcraft
 Tinkers Construct
-EnderIO
 
 
 Lav's Ideas
 
-Battle Towers
-Better Dungeons
 Better Storage
 
 Balkon'sWeaponMod
