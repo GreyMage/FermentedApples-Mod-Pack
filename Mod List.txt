@@ -16,14 +16,14 @@ Thaumcraft              4.2.0.1
 Biomes O' Plenty        2.1.0.991
 IronChest               6.0.60.741
 WALIA                   1.5.4a
+Forestry                3.0.0.170
+NEI-Plugins             1.1.0.9 Unofficial
 
 Cades' Ideas
 
-Forestry
 Tinkers Construct
 
 
 Lav's Ideas
 
-Balkon'sWeaponMod
 Blood Magic
