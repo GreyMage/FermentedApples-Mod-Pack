@@ -15,6 +15,7 @@ DungeonPack             1.7.10-1.0
 Thaumcraft              4.2.0.1
 Biomes O' Plenty        2.1.0.991
 IronChest               6.0.60.741
+WALIA                   1.5.4a
 
 Cades' Ideas
 
