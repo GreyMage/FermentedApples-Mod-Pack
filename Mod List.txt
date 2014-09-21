@@ -18,12 +18,12 @@ IronChest               6.0.60.741
 WALIA                   1.5.4a
 Forestry                3.0.0.170
 NEI-Plugins             1.1.0.9 Unofficial
+Backpacks               2.0.0-1.7
+Railcraft               9.3.1.0
+Tinkers Construct       1.6.0d40
+Inventory Tweaks        1.59-dev-152
+Binnie Mods             2.0-dev4
+JABBA                   1.1.4
 
-Cades' Ideas
-
-Tinkers Construct
-
-
-Lav's Ideas
-
+Ideas
 Blood Magic
