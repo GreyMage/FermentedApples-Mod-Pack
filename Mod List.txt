@@ -14,7 +14,7 @@ Battletowers            1.7.10
 DungeonPack             1.7.10-1.0
 Thaumcraft              4.2.0.1
 Biomes O' Plenty        2.1.0.991
-
+IronChest               6.0.60.741
 
 Cades' Ideas
 
@@ -24,6 +24,5 @@ Tinkers Construct
 
 Lav's Ideas
 
-Better Storage
 Balkon'sWeaponMod
 Blood Magic
