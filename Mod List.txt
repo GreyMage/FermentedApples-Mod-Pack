@@ -1,6 +1,7 @@
 INSTALLED
 Minecraft Forge         10.13.0.1180
 CodeChickenCore         1.0.2.9
+CoFH Core               3.0.0B6
 NEI                     1.0.2.15
 LiteLoader              1.7.10-3
 Mine Little Pony        1.7.10.1
@@ -24,6 +25,11 @@ Tinkers Construct       1.6.0d40
 Inventory Tweaks        1.59-dev-152
 Binnie Mods             2.0-dev4
 JABBA                   1.1.4
+Redstone Arsenal        1.7.10_1.1
+Thermal Foundation      1.0.0B3-8
+Thermal Expansion       4.0.0B5-13
+Infernal Mobs           1.7.10
+Ruins                   1.7.10
+Extra Utilities         1.1.0k
 
 Ideas
-Blood Magic
