@@ -1,0 +1,1 @@
+"Draw/Stow Weapon" key needs to be a different key from "Sort inventory" to prevent irregular behaviour.
