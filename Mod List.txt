@@ -31,5 +31,7 @@ Thermal Expansion       4.0.0B5-13
 Infernal Mobs           1.7.10
 Ruins                   1.7.10
 Extra Utilities         1.1.0k
+Tinkers Mechworks       0.2.8
+Walia Harvestability    1.1.0
 
 Ideas
