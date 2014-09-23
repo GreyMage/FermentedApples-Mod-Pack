@@ -1,2 +1,3 @@
-nnnnnnn"Draw/Stow Weapon" key needs to be a different key from "Sort inventory" to prevent irregular behaviour.
+"Draw/Stow Weapon" key needs to be a different key from "Sort inventory" to prevent irregular behaviour.
 Remove "The Ender" from the chest loot table
+NEI should default to recipe mode
