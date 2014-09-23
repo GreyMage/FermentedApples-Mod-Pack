@@ -1,1 +1,2 @@
-"Draw/Stow Weapon" key needs to be a different key from "Sort inventory" to prevent irregular behaviour.
+nnnnnnn"Draw/Stow Weapon" key needs to be a different key from "Sort inventory" to prevent irregular behaviour.
+Remove "The Ender" from the chest loot table
